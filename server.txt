@@ -1,0 +1,101 @@
+JOÃO PEDRO RAMOS DE OLIVEIRA 
+
+Analista de Infraestrutura | Automação | DevOps 
+
+Alegrete – RS  |  (55) 99688-4436  |  joaopedrordeo@gmail.com  |  LinkedIn  |  GitHub 
+
+PERFIL PROFISSIONAL 
+
+Profissional de Infraestrutura e DevOps com mais de 5 anos de experiência em TI, atuando em ambientes on-premises com servidores físicos, Linux, virtualização, automação e observabilidade. Experiência prática com Proxmox, Ansible, Terraform, Python, Docker, Zabbix, Grafana, Git e GitHub Actions. Atuação no provisionamento e gerenciamento do ciclo operacional de VMs e containers, configuração de sistemas, automação de tarefas, monitoramento, troubleshooting, backup e resposta a incidentes. Graduado em Ciência da Computação pela UNIPAMPA, com experiência adicional em desenvolvimento de software e CI/CD. 
+
+COMPETÊNCIAS TÉCNICAS 
+
+Infraestrutura 
+
+Linux; servidores bare-metal; Dell PowerEdge; HPE; Lenovo; Proxmox; VMs; LXC; Docker; RAID; backup e restore 
+
+Automação 
+
+Ansible; Terraform; Python; Shell Script; Infrastructure as Code (IaC); configuration management; provisionamento automatizado 
+
+Observabilidade 
+
+Zabbix; Grafana; monitoramento; dashboards; alertas; troubleshooting; resposta a incidentes 
+
+DevOps / CI/CD 
+
+Git; GitHub; GitHub Actions; self-hosted runners; CI/CD; workflows de desenvolvimento 
+
+Redes / Serviços 
+
+Redes de infraestrutura; IPAM (Bagre); administração de serviços Linux; agentes Zabbix e Teleport 
+
+EXPERIÊNCIA PROFISSIONAL 
+
+Exército Brasileiro — 3º Sargento | Analista de Infraestrutura  |  set/2023 – atual 
+
+Alegrete – RS 
+
+• Administração de infraestrutura on-premises, envolvendo servidores físicos Dell PowerEdge, HPE e Lenovo, sistemas Linux, virtualização Proxmox, containers e serviços de infraestrutura. 
+
+• Administração do ciclo operacional de VMs e containers LXC no Proxmox, incluindo provisionamento, configuração, atualização, migração, backup/restore, monitoramento e troubleshooting; provisionamento automatizado com Terraform e Ansible. 
+
+• Desenvolvimento e manutenção de automações com Ansible para instalação de pacotes, configuração de sistemas operacionais, gerenciamento de usuários, deployment de serviços, aplicação de patches, configuração de rede e implantação de agentes como Zabbix e Teleport. 
+
+• Implementação e operação de monitoramento com Zabbix e Grafana, incluindo dashboards, alertas, investigação de incidentes e resolução de falhas; redução superior a 50% no tempo médio de detecção e resolução de falhas em sistemas críticos. 
+
+• Administração de rotinas de backup de ambientes virtualizados com Proxmox Backup Server e utilização de RAID em servidores, apoiando a recuperação de workloads e a continuidade operacional. 
+
+• Liderança técnica da equipe de TI, distribuição de demandas e acompanhamento da execução de atividades, além da condução de projetos de infraestrutura e adoção de novas ferramentas. 
+
+Exército Brasileiro — Cabo | Suporte em TI  |  abr/2022 – ago/2023 
+
+Alegrete – RS 
+
+• Suporte e troubleshooting em ambientes Windows e Linux, manutenção de redes e CFTV e atendimento de incidentes de infraestrutura. 
+
+Exército Brasileiro — Soldado | Auxiliar de Suporte de TI  |  mar/2021 – abr/2022 
+
+Alegrete – RS 
+
+• Instalação e configuração de sistemas Windows/Linux, infraestrutura de rede e CFTV, além de automação de rotinas de backup de máquinas virtuais. 
+
+Universidade Federal do Pampa — Desenvolvedor Full Stack  |  out/2025 – jul/2026 
+
+Alegrete – RS 
+
+• Desenvolvimento de aplicações web e infraestrutura de entrega utilizando TypeScript/NestJS, React, Docker, GitHub Actions e self-hosted runners, com integração de CI/CD. 
+
+ 
+
+PROJETOS TÉCNICOS SELECIONADOS 
+
+Infraestrutura como Código — Proxmox + Terraform + Ansible — automação da criação e configuração de containers LXC no Proxmox utilizando IaC, Terraform e Ansible, com foco em ambientes on-premises. 
+
+github.com/joao-pedro-rdo/lab-proxmox-terraform-ansible 
+
+Frigate NVR — Observabilidade e operação on-premises — implantação em Docker sobre Linux, integração com Zabbix/Grafana, proxy reverso com Traefik e CI/CD com GitHub Actions; solução utilizada para centralizar o monitoramento de mais de 50 câmeras. 
+
+SentinelCI — GitHub Action — desenvolvimento de uma GitHub Action em TypeScript para análise estática de Dockerfiles e sugestões de boas práticas, demonstrando integração entre desenvolvimento e CI/CD. 
+
+github.com/joao-pedro-rdo/SentinelCI 
+
+Terraform + Kubernetes — laboratório de provisionamento e destruição de cluster Kubernetes na DigitalOcean usando Terraform, com backend remoto na HashiCorp Platform, workflow de automação e notificações. 
+
+github.com/joao-pedro-rdo/terraform-kubernetes-dg 
+
+FORMAÇÃO ACADÊMICA 
+
+Bacharelado em Ciência da Computação — Universidade Federal do Pampa (UNIPAMPA)  |  2020 – 2026 
+
+Disciplinas de Mestrado — aluno especial, Universidade Federal do Pampa  |  2026 – atual 
+
+Técnico em Informática — Instituto Federal Farroupilha (IFFar)  |  2017 – 2019 
+
+CURSOS RELEVANTES 
+
+Ansible  ·  Git e GitHub  ·  GitHub Actions  ·  Docker  ·  Introdução a DevOps 
+
+IDIOMAS 
+
+Português — nativo  |  Inglês — intermediário, com foco em comunicação técnica 

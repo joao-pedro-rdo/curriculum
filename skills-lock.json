@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "resume-optimizer": {
+      "source": "qiongyang2018-lang/resume-optimizer-new",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "36113b6b4e055a155568140dbf8935be5029694b2ec51b344e121d80411e78d0"
+    }
+  }
+}

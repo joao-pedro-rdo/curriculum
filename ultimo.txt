@@ -1,0 +1,122 @@
+João Pedro Ramos de Oliveira 
+
+Alegrete – RS | Celular: (55) 99688-4436 
+
+E-mail: joaopedrordeo@hotmail.com| https://www.linkedin.com/in/joaopedrordeo/ | GitHub 
+
+  
+
+                                       
+
+RESUMO:  Profissional de Infraestrutura e DevOps com mais de 5 anos de experiência em TI, atuando em ambientes on-premises com servidores físicos, Linux, virtualização, automação e observabilidade. Experiência prática com Proxmox, Ansible, Terraform, Python, Docker, Zabbix, Grafana, Git e GitHub Actions. Atuação no provisionamento e gerenciamento do ciclo operacional de VMs e containers, configuração de sistemas, automação de tarefas, monitoramento, troubleshooting, backup e resposta a incidentes. Graduado em Ciência da Computação pela UNIPAMPA, com experiência adicional em desenvolvimento de software e CI/CD.   
+
+ 
+
+COMPETÊNCIAS TÉCNICAS 
+
+Infraestrutura e Virtualização: Linux; servidores bare-metal (Dell PowerEdge, HPE/HP ProLiant e Lenovo); Proxmox; VMs; LXC; Docker; RAID; backup e restauração. 
+
+Observabilidade e Operações: Zabbix; Grafana; Loki; monitoramento; dashboards; alertas; troubleshooting; resposta a incidentes. 
+
+Automação e IaC: Ansible; Terraform; Python; Shell Script; Infrastructure as Code (IaC); configuration management; provisionamento automatizado. 
+
+DevOps e CI/CD: Git; GitHub; GitHub Actions; self-hosted runners; CI/CD; workflows de desenvolvimento. 
+
+Redes e Serviços: TCP/IP; DNS; DHCP; VPN; redes de infraestrutura; administração de serviços Linux. 
+
+Programação e Scripting: Python; Shell Script; TypeScript; JavaScript. 
+
+ 
+
+EXPERIENCIA PROFISSIONAL: 
+
+ 
+
+Exército Brasileiro  - 3º Sargento | Analista de Infraestrutura 
+
+Período: Setembro de 2023 – Presente | Local: Alegrete – RS 
+
+Administração de infraestrutura on-premises, envolvendo servidores físicos Dell PowerEdge, HPE e Lenovo, sistemas Linux, virtualização Proxmox, containers e serviços de infraestrutura. 
+
+Provisionamento automatizado em cluster proxmox com Terraform, e configuração com Ansible  instalação de pacotes, configuração de sistemas operacionais, gerenciamento de usuários, deployment de serviços, aplicação de patches, configuração de rede e implantação de agentes como Zabbix e Teleport.   
+
+Implementação e operação de monitoramento com Zabbix e Grafana, com dashboards, alertas, investigação de incidentes e resolução de falhas 
+
+Administração de rotinas de backup de ambientes virtualizados com Proxmox Backup Server e utilização de RAID em servidores, apoiando a recuperação de workloads e a continuidade operacional.   
+
+Liderança técnica da equipe de TI, distribuição de demandas e acompanhamento da execução de atividades, além da condução de projetos de infraestrutura e adoção de novas ferramentas.   
+
+ 
+
+Universidade Federal do Pampa - Desenvolvedor Full Stack | Bolsista  
+
+Período: Outubro de 2025 – julho de 2026 | Local: Alegrete – RS 
+
+Desenvolvimento de aplicações web e infraestrutura de entrega utilizando TypeScript/NestJS, React, Docker, GitHub Actions e self-hosted runners, com integração de CI/CD, testes automatizados, Tunel Cloudflare para acesso a infraestrutura, filas com redis pra disparo de notificacoes  
+
+  
+
+Exército Brasileiro  - Cabo | Suporte em TI   
+
+Período: Abril de 2022 – Agosto de 2023 | Local: Alegrete – RS 
+
+Suporte e troubleshooting em ambientes Windows e Linux, manutenção de redes e CFTV e atendimento de incidentes de infraestrutura, cabeamento de redes estruturado. 
+
+ 
+
+Exército Brasileiro — Soldado | Auxiliar de Suporte de TI   
+
+Período: Abril de 2022 – Agosto de 2023 | Local: Alegrete – RS 
+
+Instalação e configuração de sistemas Windows/Linux, infraestrutura de rede, cabeamento estruturado e CFTV,  automação de rotinas de backup de máquinas virtuais. 
+
+ 
+
+PROJETOS RELEVANTES: 
+
+ 
+Sistema de Monitoramento com Frigate NVR – 2024  | Realizado no Exército Brasileiro 
+
+Solução de vigilância com análise em tempo real e revisão de câmeras de segurança, hospedada em ambiente on-premise. Objetivo: Integrar, gerenciar e monitorar câmeras de segurança de forma confiável, garantindo melhor revisão de imagens e alertas em tempo real. 
+
+Implantação: Configurei o Frigate NVR em containers Docker, utilizando um servidor Linux dedicado. 
+
+Proxy Reverso e Roteamento: Apliquei o Traefik para provisionar rotas seguras, certificados SSL e Autenticação de usuários. 
+
+Observabilidade e Monitoramento: Integrei o Zabbix e o Grafana para coleta de métricas, criação de dashboards e geração de alertas em tempo real. 
+
+CI/CD Automatizado: Implementei pipeline com GitHub Actions, automatizando atualizações de containers e implantação de novas versões da aplicação. 
+
+Impacto: Centralizou o gerenciamento de mais de 50 câmeras de diferentes fabricantes, otimizando o uso de servidores para reduzir custos com hardware dedicado. O sistema garantiu alta disponibilidade através de monitoramento proativo e alertas em tempo real, além de facilitar o acesso rápido a gravações para auditorias de segurança. 
+
+ 
+
+Sistema de Controle de Acesso – 2025 - Presente | Realizado no Exército Brasileiro 
+
+Desenvolvimento de uma aplicação web para o gerenciamento de acesso de visitantes e funcionários terceirizados, visando aprimorar a segurança e a rastreabilidade na Organização Militar. 
+
+Desenvolvimento e Segurança: Implementação de uma API REST em JavaScript, com autenticação segura via tokens JWT em cookies HttpOnly e criptografia para as imagens de identificação dos usuários. Frontend desenvolvido em React.js.  
+
+DevOps e CI/CD: Estruturação de um pipeline de deploy automatizado para múltiplos ambientes (desenvolvimento e produção) utilizando Docker e GitHub Actions, garantindo agilidade e consistência nas entregas. 
+
+Impacto: Digitalizou e automatizou o controle de acesso, eliminando erros de preenchimento manual e reduzindo o tempo de registro em mais de 70%. O sistema fortaleceu a segurança dos dados com criptografia e autenticação moderna, além de criar um banco de dados centralizado que permite rastreabilidade completa e auditoria instantânea do pessoal. 
+
+ 
+
+ 
+
+FORMAÇÃO ACADÊMICA: 
+
+Bacharelado em Ciência da Computação, Universidade Federal do Pampa Campus Alegrete | 2020 –  2026 
+
+Disciplinas de Mestrado — aluno especial, Universidade Federal do Pampa | 2026 – atual 
+
+Técnico em Informática, Instituto Federal Farroupilha – Campus Alegrete | 2017 – 2019. 
+
+ 
+
+CURSOS RELEVANTES: 
+
+Github e Github Actions [Credencial], Curso de Docker  – [Credencial], Ansible - [Credencial], Git e GitHub – [Credencial] 
+
+ 

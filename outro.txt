@@ -1,0 +1,136 @@
+João Pedro Ramos de Oliveira 
+
+Alegrete – RS | Celular: (55) 99688-4436 
+
+E-mail: joaopedrordeo@gmail.com 
+
+Linkedin: https://www.linkedin.com/in/joaopedrordeo/  
+
+Github:  https://github.com/joao-pedro-rdo  
+
+ 
+
+RESUMO:  Profissional de Infraestrutura e DevOps com sólida experiência na solução de problemas complexos de TI. No Exército Brasileiro, lidero projetos de modernização com Proxmox, Docker, Ansible e Terraform, focado em otimizar a gestão de servidores e garantir a alta disponibilidade. Minha experiência abrange o desenvolvimento de aplicações, automação, monitoramento e todo o ciclo de vida de TI, desde o suporte até a liderança técnica. 
+
+ 
+
+HABILIDADES   
+
+Programação: Python, Shell Script, C, C++, PHP, JavaScript  
+
+Infraestrutura e Virtualização: Proxmox, LXC, máquinas virtuais 
+
+Monitoramento: Zabbix, Grafana 
+
+DevOps e Automação: Docker, Terraform, Ansible, GitHub Actions (CI/CD), Kubernets 
+
+Sistemas Operacionais: Linux (Administração e configuração), Windows 
+
+Outras Competências: Redes, Liderança em TI, CFTV, Inglês B2 
+
+ 
+
+FORMAÇÃO ACADÊMICA: 
+
+Ciência da Computação, Universidade Federal do Pampa Campus Alegrete | 2020 – Presente. 
+
+Técnico em Informática, Instituto Federal Farroupilha – Campus Alegrete | 2017 – 2019. 
+
+ 
+
+CURSOS RELEVANTES: 
+
+Github e Github Actions  
+
+Curso de Docker   
+
+Ansible  
+
+Git e GitHub  
+
+Inglês – Senac RS (2013 - 2018) 
+
+ 
+
+EXPERIENCIA PROFISSIONAL: 
+
+ 
+
+3º Sargento do Exército Brasileiro | Analista de Infraestrutura de TI e Redes 
+
+Período: 2023/09 – Presente | Local: Alegrete – RS 
+
+Administração de Infraestrutura: Responsável por configurar e manter a infraestrutura de TI, incluindo servidores Linux, máquinas virtuais e containers no Proxmox. 
+
+Monitoramento e Observabilidade: Implementação e gerenciamento do Zabbix e Grafana para monitorar redes, servidores e aplicativos críticos, garantindo alta disponibilidade e identificando pontos de falha de forma proativa. 
+
+Automação de Processos: Criação de scripts em Python e Shell Script para automatizar tarefas de manutenção e implantação;  
+
+Virtualização e Conteinerização: Gerenciamento e orquestração de containers em Docker, configurando e otimizando ambientes de desenvolvimento e produção; experiência em LXC e VMs no Proxmox. 
+
+Infraestrutura como Código: Uso de Terraform e Ansible para provisionar infraestrutura em ambientes locais, garantindo rastreabilidade e versionamento de mudanças. 
+
+Liderança e Treinamento: Orientação de equipes e colegas na adoção de novas ferramentas e processos, promovendo uma cultura de compartilhamento de conhecimento e melhoria contínua. 
+
+Gestão de Projetos de TI e Aquisições: Responsável pelo gerenciamento do ciclo de vida de projetos de TI, incluindo o planejamento técnico de instalações de rede e CFTV, a definição de escopo, e o processo de aquisição de materiais, garantindo a entrega dentro do prazo e do orçamento. 
+
+ 
+
+Cabo | Auxiliar de TI 
+
+Período: 2022/03  – 2023/03 | Local: Alegrete – RS 
+
+Infraestrutura Física e Redes: Responsável pela instalação de sistemas de CFTV e pela montagem e manutenção de cabeamento estruturado e racks de servidores, assegurando a base operacional da rede. 
+
+Hardware e Manutenção: Realizei a montagem e manutenção completa do parque de computadores da organização, garantindo o bom funcionamento dos equipamentos. 
+
+Suporte Técnico e Resolução de Problemas: Prestei suporte técnico direto aos usuários, atuando como ponto de referência para o diagnóstico e a resolução de problemas de software e hardware de forma ágil, tanto presencial quanto remotamente. 
+
+ 
+
+Soldado | Auxiliar de TI 
+
+Período: 2022/03  – 2023/03 | Local: Alegrete – RS 
+
+Suporte e Manutenção: Atuei na montagem e manutenção de computadores e prestei suporte inicial aos usuários da Organização Militar, realizando formatações, instalações e configurações de software para adequação aos padrões internos. 
+
+Automação: Desenvolvi scripts básicos em Shell para automatizar rotinas de backup em servidores, buscando otimizar processos e garantir a segurança dos dados. 
+
+Apoio à Infraestrutura: Colaborei com a equipe de TI em tarefas de manutenção de sistemas de CFTV e na organização de cabeamento estruturado, adquirindo experiência prática em infraestrutura física. 
+
+ 
+
+PROJETOS RELEVANTES: 
+
+ 
+Sistema de Monitoramento com Frigate NVR – 2024  | Realizado no Exército Brasileiro 
+
+Solução de vigilância com análise em tempo real e revisão de câmeras de segurança, hospedada em ambiente on-premise. Objetivo: Integrar, gerenciar e monitorar câmeras de segurança de forma confiável, garantindo melhor revisão de imagens e alertas em tempo real. 
+
+Implantação: Configurei o Frigate NVR em containers Docker, utilizando um servidor Linux dedicado. 
+
+Proxy Reverso e Roteamento: Apliquei o Traefik para provisionar rotas seguras, certificados SSL e Autenticação de usuários. 
+
+Observabilidade e Monitoramento: Integrei o Zabbix e o Grafana para coleta de métricas, criação de dashboards e geração de alertas em tempo real e alertas de câmeras IP sem conexão sendo disparadas no celular para uma correção mais agil 
+
+CI/CD Automatizado: Implementei pipeline com GitHub Actions, automatizando atualizações de containers e implantação de novas versões da aplicação. 
+
+ 
+
+ 
+
+Migração de Servidores para Proxmox VE | 2023 | Realizado no Exército Brasileiro 
+
+Liderei o projeto de migração da infraestrutura de virtualização legada (VirtualBox) para Proxmox VE, visando resolver limitações críticas de escalabilidade e garantir a conformidade com as diretrizes de software livre da organização. 
+
+Minha Atuação: Liderei a execução completa do projeto, desde a análise da infraestrutura e definição de estratégias de backup até a configuração do ambiente Proxmox e a migração dos servidores, garantindo a integridade dos dados e minimizando o tempo de inatividade. 
+
+Resultado: Implantação de um ambiente de virtualização robusto, com gerenciamento centralizado web e em total conformidade com os requisitos da organização, resultando em maior eficiência na gestão dos servidores. 
+
+ 
+
+ 
+
+ 
+
+ 
